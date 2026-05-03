@@ -68,13 +68,13 @@ Tables used:
 # Dashboard Preview
 
 # Sales Overview
-![Sales](Images/page1.png)
+![Sales](Images/Page1.png)
 
 # Customer & Sales Rep Analysis
-![Customers](Images/page2.png)
+![Customers](Images/Page2.png)
 
 # Web Engagement
-![Web](Images/page3.png)
+![Web](Images/Page3.png)
 
 ---
 
